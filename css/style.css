@@ -1,0 +1,45 @@
+.content {
+    min-height: calc(100vh - 50px);
+    color: white;
+}
+
+.main_content {
+    padding: 0 1rem;
+}
+.form_width {
+    max-width: 50rem;
+    margin: 0 2rem;
+}
+.panel_width {
+    max-width: 70rem;
+    margin: 0 2rem;
+}
+.panel_nav_btn {
+    float: right;
+}
+.login_width {
+    max-width: 30rem;
+    margin: 0 2rem;
+}
+.page_list {
+    margin-right: calc(50% - 35rem);
+}
+.page_selected {
+    background-color: #47535E;
+}
+.page_unselected {
+    background-color: #212529;
+}
+.page-link {
+    border: solid black 2px;
+    color: white;
+}
+.page-link:hover {
+    background-color: #47535E;
+    border: solid black 2px;
+    color: white;
+}
+.footer {
+    height: 50px;
+    line-height: 50px;
+}
